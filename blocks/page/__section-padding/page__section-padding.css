@@ -1,17 +1,15 @@
-.page__section-margin {
+.page__section-padding {
   padding: 0 48px;
 }
 
 @media screen and (min-width: 425px) and (max-width: 1023px) {
-  .page__section-margin {
+  .page__section-padding {
     padding: 0 24px;
-    transition: all 0.3s linear;
   }
 }
 
 @media screen and (max-width: 424px) {
-  .page__section-margin {
+  .page__section-padding {
     padding: 0 16px;
-    transition: all 0.3s linear;
   }
 }
