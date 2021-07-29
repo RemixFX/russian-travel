@@ -2,10 +2,12 @@
   width: 100%;
 }
 
-@media screen and (max-width: 424px) {
-  .place__image {
+/* @media screen and (max-width: 424px) {
+  .plce__image {
     width: calc(100% + 16px*2);
     position: relative;
     right: 16px;
   }
 }
+*/
+/* а мне казалось это лучшее решение... */

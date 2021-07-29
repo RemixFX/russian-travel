@@ -22,8 +22,6 @@
   .place {
     grid-template-columns: 340px minmax(min-content, max-content);
     column-gap: 28px;
-    padding-left: 24px;
-    padding-right: 24px;
     padding-bottom: 73px;
   }
 }
@@ -33,15 +31,7 @@
     grid-template-columns: minmax(min-content, max-content);
     grid-template-rows: minmax(min-content, max-content);
     row-gap: 32px;
-    padding-left: 24px;
-    padding-right: 24px;
     padding-bottom: 50px;
   }
 }
 
-@media screen and (max-width: 425px) {
-  .place {
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
