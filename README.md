@@ -4,9 +4,12 @@
 
 
 Одностраничный сайт с использованием
-<img src="https://image.flaticon.com/icons/png/512/1197/1197498.png" width="40px">**&** <img src="https://image.flaticon.com/icons/png/512/461/461042.png" alt="css" width="40px">
+![html](https://user-images.githubusercontent.com/86429443/168260440-17d833b9-8724-42bc-8660-d2b9a5e6f21d.svg)
+**&**
+![css](https://user-images.githubusercontent.com/86429443/168260510-5e7372c7-20ef-4c1a-911f-0571d5d02bf5.svg)
 
-* Адаптирован под все разрешения экрана от 300px
+
+* Адаптирован под все разрешения экрана от 320px
 * Использование методологии БЭМ
 * Файловая структура по **Nested**
 * Семантичность
@@ -14,8 +17,6 @@
 * Использование transition
 * Верстка Flex и Grid сетками
 
-<br>
-<br>
 
 ## [Ссылка на работу в GitHub-Pages](https://remixfx.github.io/russian-travel/)
 
